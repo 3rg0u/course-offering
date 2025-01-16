@@ -50,6 +50,14 @@ class DatabaseSeeder extends Seeder
                 'password' => Hash::make('nqa'),
             ]
         );
+        User::create(
+            [
+                'name' => 'akai shuichi',
+                'email' => 'akai@yahoo.com',
+                'type' => 'std',
+                'password' => Hash::make('nqa'),
+            ]
+        );
 
 
         Course::create(
@@ -80,15 +88,15 @@ class DatabaseSeeder extends Seeder
 
 
         Record::create([
-            'user_id' => 1,
+            'user_id' => 4,
             'course_id' => 1,
         ]);
         Record::create([
-            'user_id' => 1,
+            'user_id' => 4,
             'course_id' => 2,
         ]);
         Record::create([
-            'user_id' => 1,
+            'user_id' => 4,
             'course_id' => 3,
         ]);
         Record::create([
