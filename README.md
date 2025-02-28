@@ -8,6 +8,8 @@ This is a mini CRUD project using Laravel, a powerful framework based on PHP.
 In this project, I focus on building an education website, that allows professor to offer courses to students, and also, to grade their students.  
 Students can enroll in any course offered by professor, and they can see report card for the coressponding course.
 
+Here is the deployment of this project: [Course Offering](http://courseoffering.ct.ws)
+
 > NOTE:
 > This project only serves the purpose of offering courses and grading, it's not meant for online teaching.
 
