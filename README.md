@@ -1,6 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center"><b>COURSE OFFERING AND GRADING WEBAPP</b></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=3000&pause=500&color=F7A0A0&center=true&vCenter=true&width=720&height=100&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%BA%8C%E7%8B%97;course+offering)](https://www.github.com/3rg0u/CourseOffering)
 
 ### General
 
